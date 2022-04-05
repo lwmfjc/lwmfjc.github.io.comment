@@ -1,2 +1,2 @@
 # lwmfjc.github.io.comment
-评论用的
+给博客评论用的
